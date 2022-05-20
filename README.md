@@ -5,16 +5,16 @@ Hi, I'm [Galtrips](https://github.com/Galtrips), I'am 19 year old and I'm a Fren
 # Project 
 
 ```yaml
-__Current projet :__
+Current projet :
 
  - Manage Faction :  Advanced Manage Discord Bot for your Guild or Faction.
  - MusicBot : Advanced Music Discord bot.
  
-__Learning :__
+Learning :
 
- - Forge 1.8
- - Spigot
- - Discord.js V14
+ - Forge : For Minecraft 1.8
+ - Spigot : For minecraft 1.12.2
+ - Discord.js V14 : For Discord Bot
 ```
 
 # Languages already used

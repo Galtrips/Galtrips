@@ -13,7 +13,7 @@ Current projet :
 Learning :
 
  - Forge : For Minecraft 1.7.10
- - Spigot : For minecraft 1.12.2
+ - Spigot : For Minecraft 1.12.2
  - Discord.js V14 : For Discord Bot
 ```
 
@@ -33,7 +33,7 @@ Learning :
 # Contact
 
  - Discord : Galtrips#0676
- - Mail : G4ltrips@gmail.com
+ - Email : G4ltrips@gmail.com
 
 # GitHub Stats
 

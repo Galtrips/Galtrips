@@ -1,7 +1,7 @@
 ### Contact
 
-Discord : Galtrips#0676
-Mail : G4ltrips@gmail.com
+<\t>Discord : Galtrips#0676\n
+<\t>Mail : G4ltrips@gmail.com
 
 ### GitHub Stats
 

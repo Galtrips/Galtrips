@@ -37,4 +37,10 @@ Learning :
 
 # GitHub Stats
 
-<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=Galtrips&show_icons=true&theme=radical&count_private=true"></p>
+</br>
+<p style="text-align:center;", align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Galtrips&show_icons=true&theme=radical&count_private=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galtrips&layout=compact&theme=vision-friendly-dark" alt=""/>
+</p>

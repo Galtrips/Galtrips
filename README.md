@@ -2,6 +2,21 @@
 
 Hi, I'm [Galtrips](https://github.com/Galtrips), I'am 19 year old and I'm a French developer passionate about IT. I learn a lot of things on my own and in my current training .I am in university bachelors of technology at the university institute of technology of Lyon 1. [Zeldown](https://github.com/Zeldown) is my master and [Samxvdhn](https://github.com/Samxvdhn) is my twin.
 
+# Project 
+
+```yaml
+__Current projet :__
+
+ - Manage Faction :  Advanced Manage Discord Bot for your Guild or Faction.
+ - MusicBot : Advanced Music Discord bot.
+ 
+__Learning :__
+
+ - Forge 1.8
+ - Spigot
+ - Discord.js V14
+```
+
 # Languages already used
 
  - HTML
@@ -17,8 +32,8 @@ Hi, I'm [Galtrips](https://github.com/Galtrips), I'am 19 year old and I'm a Fren
 
 # Contact
 
-### Discord : Galtrips#0676
-### Mail : G4ltrips@gmail.com
+ - Discord : Galtrips#0676
+ - Mail : G4ltrips@gmail.com
 
 # GitHub Stats
 

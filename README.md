@@ -1,6 +1,6 @@
 # About me
 
-Hi, I'm [Galtrips](https://github.com/Galtrips), I'am 19 year old and I'm a French developer passionate about IT. I learn a lot of things on my own and in my current training .I am in university bachelors of technology at the university institute of technology of Lyon 1.
+Hi, I'm [Galtrips](https://github.com/Galtrips), I'am 20 year old and I'm a French developer passionate about IT. I learn a lot of things on my own and in my current training .I am in university bachelors of technology at the university institute of technology of Lyon 1.
 
 # Project 
 
